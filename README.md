@@ -8,7 +8,7 @@ mvn clean install
 
 ### Only Tests
 ```
-mvn tests
+mvn test
 ```
 
 ### Run Main class
